@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Newt (https://newt.to), Keetup, +
+- 💬 Ask me about anything
+- 📫 How to reach me: mfort@keetup.com
+- 😄 Pronouns: he/him
 <!--
 **mqtik/mqtik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

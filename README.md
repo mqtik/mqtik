@@ -1,4 +1,4 @@
-### Hi there 👋
+### Just relax. Nothing is under control 👋
 
 - 🔭 I’m currently working on Newt (https://newt.to), Keetup, +
 - 💬 Ask me about anything

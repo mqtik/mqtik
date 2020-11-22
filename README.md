@@ -1,6 +1,6 @@
 ### Just relax. Nothing is under control 👋
 
-- 🔭 I’m currently working on Newt (https://newt.to), Keetup, +
+- 🔭 I’m currently working on Newt (https://newt.to), Keetup, Flux IT, +
 - 💬 Ask me about anything
 - 📫 Want to reach out?: m@tias.xyz
 - 😄 Pronouns: he/him

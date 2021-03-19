@@ -1,9 +1,8 @@
 ### Just relax. Nothing is under control 👋
 
-- 🔭 I’m currently working on Newt (https://newt.to), Keetup, Flux IT, +
+- 🔭 I’m currently working on Newt (https://newt.to) & Flux IT
 - 💬 Ask me about anything
 - 📫 Want to reach out?: m@tias.xyz
-- 😄 Pronouns: he/him
 <!--
 **mqtik/mqtik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

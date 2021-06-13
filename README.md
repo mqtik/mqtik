@@ -1,4 +1,4 @@
-### Just relax. Nothing is under control 👋
+### Relax. Nothing is under control 👋
 
 - 🔭 I’m currently working on Newt (https://newt.to) & Propify
 - 📫 Want to reach out?: m@tias.xyz

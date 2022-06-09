@@ -1,6 +1,6 @@
 ### Relax. Nothing is under control 👋
 
-- 🔭 I’m currently working on Propify and on [Newt](https://newt.to) on my spare time
+- 🔭 I’m currently working on Propify and on [Newt](https://www.newt.to) on my spare time
 - 📫 Want to reach out?: m@tias.xyz
 <!--
 **mqtik/mqtik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

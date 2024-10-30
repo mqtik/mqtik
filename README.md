@@ -1,6 +1,7 @@
 ### 👋
 
-- 🔭 I’m currently working on Propify and on [Newt](https://www.newt.to) on my spare time
+- 🔭 I’m currently working at [StackBuilders](https://www.stackbuilders.com/)
+- Made [Newt](https://www.newt.to) and worked on [GATO](https://gato.us)
 - 📫 Want to reach out?: m@tias.xyz
 <!--
 **mqtik/mqtik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

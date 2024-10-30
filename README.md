@@ -1,8 +1,8 @@
 ### 👋
 
 - 🔭 I’m currently working at [StackBuilders](https://www.stackbuilders.com/)
-- Made [Newt](https://www.newt.to) and worked on [GATO](https://gato.us)
-- 📫 Want to reach out?: m@tias.xyz
+- Made [Newt](https://www.newt.to) and worked on [GATO](https://gato.us), [Propify](https://propify.com), etc
+- 📫 Want to reach out?: m@tias.xyz — https://tias.xyz
 <!--
 **mqtik/mqtik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
